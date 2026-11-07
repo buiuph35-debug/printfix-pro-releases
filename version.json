@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "min_version": "2.0.0",
   "release_date": "2026-11-07",
-  "changelog": "Aviso de segurança USB na Limpeza Profunda, botão de Suporte no WhatsApp e correção do modal de ativação de chave.",
+  "changelog": "Nova tela de abertura moderna, aviso de segurança USB na Limpeza Profunda, botão de Suporte via WhatsApp e correções.",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
