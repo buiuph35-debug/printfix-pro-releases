@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "min_version": "2.0.0",
-  "release_date": "2026-11-07",
-  "changelog": "Nova tela de abertura moderna, aviso de segurança USB na Limpeza Profunda, botão de Suporte via WhatsApp e correções.",
+  "release_date": "2026-11-10",
+  "changelog": "Ciclo Programado com Arquivo/Texto do Cliente e Purga CMYK 100%, Pré-visualização de Etiquetas Térmicas, Memória Automática da Assistência/Técnico e estabilidade aprimorada.",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
