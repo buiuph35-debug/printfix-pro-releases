@@ -1,7 +1,7 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "min_version": "2.0.0",
-  "release_date": "2026-11-11",
-  "changelog": "Blindagem total do Spooler: correção de detecção 64-bit, recuperação de travamentos em segundo plano, envio sequencial de múltiplas páginas de teste na bancada e fallback ultrarresiliente do Registro.",
+  "release_date": "2026-11-12",
+  "changelog": "Blindagem contra tela congelada (WebView2 sem aceleração de GPU para máquinas legadas), captura global de diagnósticos e logs nativos (faulthandler), melhoria no envio sequencial do Spooler de 64-bit e suporte avançado para testes de bancada.",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
