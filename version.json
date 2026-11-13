@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "min_version": "2.0.0",
-  "release_date": "2026-11-12",
-  "changelog": "Blindagem contra tela congelada (WebView2 sem aceleração de GPU para máquinas legadas), captura global de diagnósticos e logs nativos (faulthandler), melhoria no envio sequencial do Spooler de 64-bit e suporte avançado para testes de bancada.",
+  "release_date": "2026-11-13",
+  "changelog": "Suporte a impressoras de rede IP no topo, nova folha de teste de rede A4 completa sem espaços vazios, auto-recuperação do WebView2 (erro 0x80080005) e identificação técnica neutra.",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
