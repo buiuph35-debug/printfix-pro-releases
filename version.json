@@ -1,7 +1,7 @@
 {
-  "version": "2.0.7",
+  "version": "2.0.8",
   "min_version": "2.0.0",
-  "release_date": "2026-11-13",
-  "changelog": "Novo botão direto para excluir qualquer impressora/porta (🗑️ Excluir), aprimoramento do vinculador de impressoras de rede com aviso de driver e atalho do Windows, correção visual do contador Online/Total e etiquetas nítidas WSD vs TCP/IP.",
+  "release_date": "2026-11-26",
+  "changelog": "Novidades PRO v2.0.8: Leitura SNMP com busca automática de IP (toner/tinta CMYK, % real Ricoh/HP, contador e alertas), Central de Limpeza Direta (Epson ESC/P2, Canon BJL e Modo Laser com Fusor + Cilindro OPC em mm), Detecção e Correção Automática de Compartilhamento Win 10/11 (0x11b/0x709/0xbcb), Drivers Oficiais (14 marcas), Painel Web EWS, Definir Padrão, Pacote de Suporte (.zip) e seletor de páginas somável (5 + 10 = 15).",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
