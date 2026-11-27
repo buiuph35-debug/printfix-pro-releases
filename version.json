@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.2",
   "min_version": "2.0.0",
   "release_date": "2026-11-27",
-  "changelog": "Novidades PRO v2.1.0: Resgate Automático de Impressora USB presa em 'Não Especificado' (detecta e recria a fila oficial em 1 clique usando o DriverStore do Windows ou pasta local .INF) + Alerta e Troca Inteligente de Driver Genérico Windows (Microsoft IPP / V4 Class Driver) com troca automática V4->V3 ou atalho direto com modelo copiado. Inclui ainda Bypass USB Direto Epson (L4260 validada) e Canon IVEC/BJL.",
+  "changelog": "Novidades PRO v2.1.2: Manutenção Direta Canon MegaTank/PIXMA 100% reescrita e validada fisicamente na Canon G3000 (protocolo oficial IVEC StartJob + ModeShift + BJL puro com leitura de confirmação da placa para Verificação de Bicos @TestPrint=NozzleCheck, Limpeza Normal @Cleaning=1ALL e Limpeza Profunda @Cleaning=2ALL) + NOVO botão de Limpeza do Sistema / Fluxo de Tinta (@Cleaning=4ALL) com aviso de segurança.",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
