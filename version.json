@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
+  "version": "2.1.0",
   "min_version": "2.0.0",
-  "release_date": "2026-11-26",
-  "changelog": "Novidades PRO v2.0.9: Bypass USB Direto (USBPRINT) e Rede TCP 9100 para manutenção Epson e Canon — agora Limpeza Normal, Limpeza Intensa (Power Clean) e Verificação de Bicos funcionam mesmo com drivers V4 / Microsoft IPP Class Driver do Windows 10/11! Pacote oficial Epson de 132 bytes com ejeção completa da folha (testado ao vivo em EcoTank L4260), suporte nativo Canon IVEC XML (MegaTank G3100/G3110/G3160/G4110/G6010/G7010) + BJL clássico, e diagnóstico amigável para erro código 2 na Página de Teste.",
+  "release_date": "2026-11-27",
+  "changelog": "Novidades PRO v2.1.0: Resgate Automático de Impressora USB presa em 'Não Especificado' (detecta e recria a fila oficial em 1 clique usando o DriverStore do Windows ou pasta local .INF) + Alerta e Troca Inteligente de Driver Genérico Windows (Microsoft IPP / V4 Class Driver) com troca automática V4->V3 ou atalho direto com modelo copiado. Inclui ainda Bypass USB Direto Epson (L4260 validada) e Canon IVEC/BJL.",
   "download_url": "https://github.com/buiuph35-debug/printfix-pro-releases/releases/latest/download/PrintFix-Pro.exe"
 }
